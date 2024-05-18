@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Calculator using React
+### git clone "https://github.com/vandana-dsu/Calculator.git"
+### cd Calculator
 
 ## Available Scripts
 
