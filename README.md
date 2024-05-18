@@ -1,6 +1,6 @@
 # Calculator using React
-### git clone "https://github.com/vandana-dsu/Calculator.git"
-### cd Calculator
+git clone "https://github.com/vandana-dsu/Calculator.git"
+cd Calculator
 
 ## Available Scripts
 
